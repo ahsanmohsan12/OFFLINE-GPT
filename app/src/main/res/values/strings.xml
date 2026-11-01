@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PocketGGUF</string>
+    <string name="no_model_loaded">No model loaded</string>
+    <string name="pick_gguf_content_desc">Pick .gguf model file</string>
+    <string name="engine_info_content_desc">Engine and RAM info</string>
+    <string name="clear_chat_content_desc">Clear chat messages</string>
+    <string name="dismiss_error_content_desc">Dismiss error banner</string>
+    <string name="message_placeholder">Message offline AI…</string>
+    <string name="send_message_content_desc">Send message</string>
+    <string name="stop_generation_content_desc">Stop generation</string>
+    <string name="typing_indicator">typing...</string>
+</resources>

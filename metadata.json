@@ -1,0 +1,6 @@
+{
+  "name": "PocketGGUF",
+  "description": "Lightweight offline GGUF AI chatbot built with Kotlin, Jetpack Compose, and JNI/llama.cpp for 32-bit ARMv7 low-RAM Android devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
