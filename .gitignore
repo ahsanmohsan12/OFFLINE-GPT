@@ -16,3 +16,4 @@
 local.properties
 .env
 debug.keystore
+!PocketGGUF-armeabi-v7a-debug.apk
